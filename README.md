@@ -19,10 +19,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dooti2325&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dooti2325&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dooti2325&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=dooti2325&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=dooti2325&theme=midnight-purple&hide_border=false)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dooti2325&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
