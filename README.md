@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Dooti
+👋 Hi, I’m Dooti,<br>
 👀 I’m interested in data science, AI, and fitness tracking apps.<br>
 🌱 I’m currently learning machine learning, data visualization, and advanced Python.<br>
 💞️ I’m looking to collaborate on data science projects, open-source AI tools, and fitness/health-related apps.<br>
