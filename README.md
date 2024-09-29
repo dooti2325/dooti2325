@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Open Source AI Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/D00ti2325](https://github.com/D00ti2325)
+- 👨‍💻 All of my projects are available at [https://github.com/dooti2325](https://github.com/dooti2325)
 
 - 💬 Ask me about **Python, Gym Routines, Data Analytics**
 
