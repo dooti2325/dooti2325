@@ -3,8 +3,8 @@
 👀 I’m interested in data science, AI, and fitness tracking apps.<br>
 🌱 I’m currently learning machine learning, data visualization, and advanced Python.<br>
 💞️ I’m looking to collaborate on data science projects, open-source AI tools, and fitness/health-related apps.<br>
-📫 How to reach me: dooti.saha@gmail.com<br>
 🌐 Currently Working on https://event-nexus.netlify.app/ <br>
+📫 How to reach me: dooti.saha@gmail.com<br>
 ⚡ Fun fact: I lift weights and data — powered by protein shakes, Python, and Lord Krishna!
 
 
