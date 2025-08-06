@@ -20,8 +20,6 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
@@ -36,7 +34,7 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
   <img src="https://github-readme-stats.vercel.app/api?username=dooti2325&theme=midnight-purple&hide_border=false&show_icons=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dooti2325&theme=midnight-purple&hide_border=false" width="48%"/>
 </p>
-
+<p>                 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dooti2325&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="75%"/>
 </p>
@@ -44,10 +42,13 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 ---
 
 <p align="center">
-  <!-- Local static typing SVG -->
-  <img src="./assets/typing.svg" width="400" alt="Animated Text (static)" />
-</p>
+  <!-- Developer GIF -->
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Developer Animation" />
 <br>
+  <!-- Typing SVG (direct endpoint, avoids long camo URL) -->
+  <img src="https://readme-typing-svg.demolab.com?lines=Data+Enthusiast;AI+Innovation+Pioneer;Fitness+Aficionado;Visionary+Expert;Strategic+Alliance+Builder;Let%E2%80%99s+Collaborate!&center=true&width=400&height=45&duration=3500" alt="Animated Text" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dooti2325&theme=rogue" width="90%" alt="GitHub Contribution Graph"/>
 </p>
@@ -57,7 +58,8 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 ## 📚 Projects & Highlights
 
 - **Personal Fitness Tracker (ML-powered):** Tracks workouts, health metrics, and personalizes routines (*Python, Pandas, Power BI, Streamlit*)  
-- **Sentiment Analysis CLI:** Lightning-fast text sentiment analyzer (*NLP*)
+- **Sentiment Analysis CLI:** Lightning-fast text sentiment analyzer (*NLP*)  
+- **Smart Home Automation:** Data-driven IoT solutions with Arduino  
 
 ---
 
@@ -70,11 +72,13 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 
 ---
 
-## 📣 Profile Views (self-hosted)
+## 📣 Quick Social / Stats Badges
 
-<p align="center">
-  <img src="./assets/visitor.svg" alt="Profile Views" />
-</p>
+- GitHub Followers:  
+  ![Followers](https://img.shields.io/github/followers/dooti2325?label=Follow&style=social)
+
+- Profile Views (static example — replace if you self-host a counter):  
+  ![Profile Views](https://img.shields.io/badge/profile-views--?style=flat)
 
 ---
 
