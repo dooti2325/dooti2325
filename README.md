@@ -1,15 +1,15 @@
 # 🚀 Dooti Saha | Data Enthusiast & Fitness Buff
 
-*Welcome*  
+*Welcome!*  
 I'm *Dooti* — a data scientist, AI explorer, and fitness aficionado passionate about building real-world solutions.
 
 ---
 
 ## 🔍 About Me
 
-- 🎯 *Interests:* Data science, AI, fitness tracking, and health apps  
+- 🎯 *Interests:* Data science, AI, fitness tracking, health apps  
 - 🧠 *Learning:* Advanced Python, machine learning, deep learning, data visualization  
-- 🏋 *Fun Fact:* I lift both weights and data — powered by protein shakes, Python, and Lord Krishna!  
+- 🏋 *Fun Fact:* I lift weights and data — powered by protein, Python, and Lord Krishna!  
 - 💡 *Let’s Collaborate:* Open-source AI tools, health app projects, and more
 
 ---
@@ -43,33 +43,30 @@ I'm *Dooti* — a data scientist, AI explorer, and fitness aficionado passionate
 ## ✨ Animated & Interactive Section
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>
+  <!-- Animated developer GIF (static fallback below) -->
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Developer Animation" />
+  <!-- Animated typing text (ensure this link is correct and live) -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Lover;AI+Explorer;Fitness+App+Builder;Let’s+Collaborate!&center=true&width=400&height=45&duration=3500" alt="Animated Text" />
 </p>
 
-<!-- Animated stats and streaks above update live! -->
-
-<!-- Activity Graph -->
+<!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dooti2325&theme=rogue"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dooti2325&theme=rogue" width="90%" alt="GitHub Contribution Graph"/>
 </p>
 
-<!-- Visitor count and Spotify widget (optional) -->
+<!-- Visitor badge -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dooti2325&icon=7&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=dooti2325&icon=7&color=6" alt="Visitor Count"/>
 </p>
-
-<!-- Uncomment and set your Spotify username for now playing widget -->
-<!--
-[![Spotify](https://novatorem-dooti2325.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
--->
 
 ---
 
 ## 📚 Latest Projects & Highlights
 
-- [*Personal Fitness Tracker (ML-powered)*](#) — Quantifies workouts, health metrics, and routine personalization (Python, Pandas, Power BI, Streamlit)
-- [*Sentiment Analysis CLI*](#) — Lightning-fast text sentiment analyzer (NLP)
+- *Personal Fitness Tracker (ML-powered):* Quantifies workouts, health metrics, and routine personalization (Python, Pandas, Power BI, Streamlit)
+- *Sentiment Analysis CLI:* Lightning-fast text sentiment analyzer (NLP)
+- *Smart Home Automation:* Data-driven IoT solutions with Arduino
+
 ---
 
 ## 🤝 Let’s Connect!
@@ -83,10 +80,9 @@ I'm *Dooti* — a data scientist, AI explorer, and fitness aficionado passionate
 
 ## 💬 Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=dooti2325&icon=7&color=6" alt="Visitor Count"/>
 </p>
