@@ -43,11 +43,12 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 
 ---
 
-## ✨ Animated & Interactive
-
 <p align="center">
+  <!-- Developer GIF -->
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Developer Animation" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Lover;AI+Explorer;Fitness+App+Builder;Let’s+Collaborate!&center=true&width=400&height=45&duration=3500" alt="Animated Text" />
+
+  <!-- Typing SVG (direct endpoint, avoids long camo URL) -->
+  <img src="https://readme-typing-svg.demolab.com?lines=Data+Science+Lover;AI+Explorer;Fitness+App+Builder;Let%E2%80%99s+Collaborate!&center=true&width=400&height=45&duration=3500" alt="Animated Text" />
 </p>
 
 <p align="center">
@@ -59,8 +60,7 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 ## 📚 Projects & Highlights
 
 - **Personal Fitness Tracker (ML-powered):** Tracks workouts, health metrics, and personalizes routines (*Python, Pandas, Power BI, Streamlit*)  
-- **Sentiment Analysis CLI:** Lightning-fast text sentiment analyzer (*NLP*)  
-- **Smart Home Automation:** Data-driven IoT solutions with Arduino  
+- **Sentiment Analysis CLI:** Lightning-fast text sentiment analyzer (*NLP*)
 
 ---
 
@@ -73,6 +73,18 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 
 ---
 
+## 📣 Quick Social / Stats Badges
+
+- GitHub Followers:  
+  ![Followers](https://img.shields.io/github/followers/dooti2325?label=Follow&style=social)
+
+- Profile Views (static example — replace if you self-host a counter):  
+  ![Profile Views](https://img.shields.io/badge/profile-views--?style=flat)
+
+> **Tip:** If you want a live visitor counter, I can generate an SVG and add it under `/assets/visitor.svg` and update the README to reference `./assets/visitor.svg`. That will entirely avoid Camo issues.
+
+---
+
 ## 💬 Quote of the Day
 
 <p align="center">
@@ -80,5 +92,5 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dooti2325&icon=7&color=6" alt="Visitor Count"/>
+  ![Followers](https://img.shields.io/github/followers/dooti2325?label=Follow&style=social)
 </p>
