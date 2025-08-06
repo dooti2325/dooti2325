@@ -46,7 +46,7 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 <p align="center">
   <!-- Developer GIF -->
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Developer Animation" />
-
+<br>
   <!-- Typing SVG (direct endpoint, avoids long camo URL) -->
   <img src="https://readme-typing-svg.demolab.com?lines=Data+Science+Lover;AI+Explorer;Fitness+App+Builder;Let%E2%80%99s+Collaborate!&center=true&width=400&height=45&duration=3500" alt="Animated Text" />
 </p>
@@ -89,8 +89,4 @@ I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passiona
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
-<p align="center">
-  ![Followers](https://img.shields.io/github/followers/dooti2325?label=Follow&style=social)
 </p>
