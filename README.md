@@ -1,16 +1,16 @@
 # 🚀 Dooti Saha | Data Enthusiast & Fitness Buff
 
-*Welcome!*  
-I'm *Dooti* — a data scientist, AI explorer, and fitness aficionado passionate about building innovative, real-world solutions.
+*Welcome*  
+I'm *Dooti* — a data scientist, AI explorer, and fitness aficionado passionate about building real-world solutions.
 
 ---
 
 ## 🔍 About Me
 
-- 🎯 *Interests:* Data science, AI, fitness tracking, and health apps
-- 🧠 *Currently Learning:* Advanced Python, machine learning, deep learning, data visualization
-- 🏋 *Fun Fact:* I lift both weights and data—fueled by protein, Python, and Lord Krishna!
-- 💡 *Let’s Collaborate:* Open-source AI tools, data-driven health projects, and more
+- 🎯 *Interests:* Data science, AI, fitness tracking, and health apps  
+- 🧠 *Learning:* Advanced Python, machine learning, deep learning, data visualization  
+- 🏋 *Fun Fact:* I lift both weights and data — powered by protein shakes, Python, and Lord Krishna!  
+- 💡 *Let’s Collaborate:* Open-source AI tools, health app projects, and more
 
 ---
 
@@ -20,7 +20,6 @@ I'm *Dooti* — a data scientist, AI explorer, and fitness aficionado passionate
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
@@ -34,28 +33,51 @@ I'm *Dooti* — a data scientist, AI explorer, and fitness aficionado passionate
 ## 📈 Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dooti2325&theme=midnight-purple&hide_border=false&show_icons=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dooti2325&theme=midnight-purple&hide_border=false" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dooti2325&theme=midnight-purple&hide_border=false&show_icons=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dooti2325&theme=midnight-purple&hide_border=false" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dooti2325&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="70%"/>
 </p>
+
+---
+
+## ✨ Animated & Interactive Section
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dooti2325&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="65%"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Lover;AI+Explorer;Fitness+App+Builder;Let’s+Collaborate!&center=true&width=400&height=45&duration=3500" alt="Animated Text" />
 </p>
+
+<!-- Animated stats and streaks above update live! -->
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dooti2325&theme=rogue"/>
+</p>
+
+<!-- Visitor count and Spotify widget (optional) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=dooti2325&icon=7&color=6"/>
+</p>
+
+<!-- Uncomment and set your Spotify username for now playing widget -->
+<!--
+[![Spotify](https://novatorem-dooti2325.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+-->
 
 ---
 
 ## 📚 Latest Projects & Highlights
 
-- [*Personal Fitness Tracker (ML-powered)*](#) — Quantify workouts, track health metrics, and personalize routines (Python, Pandas, Power BI)
-- [*Sentiment Analysis CLI*](#) — Lightning-fast text sentiment analyzer using modern NLP
-
+- [*Personal Fitness Tracker (ML-powered)*](#) — Quantifies workouts, health metrics, and routine personalization (Python, Pandas, Power BI, Streamlit)
+- [*Sentiment Analysis CLI*](#) — Lightning-fast text sentiment analyzer (NLP)
 ---
 
 ## 🤝 Let’s Connect!
 
-- *Email:* [dootisaha.2325@gmail.com](mailto:dootisaha.2325@gmail.com)
-- *LinkedIn:* [linkedin.com/in/dootisaha](#)
-- *Twitter:* [@dooti2325](#)
-- *Portfolio:* [Your Portfolio Link Here](#)
+- 📫 *Email:* dootisaha.2325@gmail.com
+- 💼 *LinkedIn:* [linkedin.com/in/dootisaha](#)
+- 🐦 *Twitter:* [@dooti2325](#)
+- 🌐 *Portfolio:* [Your Portfolio Link Here](#)
 
 ---
 
@@ -66,7 +88,5 @@ I'm *Dooti* — a data scientist, AI explorer, and fitness aficionado passionate
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dooti2325&icon=1&color=6" alt="visitor count"/>
+  <img src="https://visitcount.itsvg.in/api?id=dooti2325&icon=7&color=6" alt="Visitor Count"/>
 </p>
-
-<!-- Inspired by GPRM | Let’s code & lift! -->
