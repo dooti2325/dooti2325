@@ -1,7 +1,7 @@
-# 🚀 Dooti Saha | Data Enthusiast & Fitness Buff
+# 🚀 Dootiballav Saha | Data Enthusiast & Fitness Buff
 
 *Welcome!*  
-I'm **Dooti** — a data scientist, AI explorer, and fitness aficionado passionate about building real-world solutions.
+I'm **Dootiballav** — a data scientist, AI explorer, and fitness aficionado passionate about building real-world solutions.
 
 ---
 
