@@ -67,8 +67,8 @@ I'm **Dootiballav** — a data scientist, AI explorer, and fitness aficionado pa
 
 - 📫 **Email:** dootisaha.2325@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/dootisaha](#)  
-- 🐦 **Twitter:** [@dooti2325](#)  
-- 🌐 **Portfolio:** [{portfolio}](#)  
+- 🐦 **Twitter:** [https://x.com/dootisaha2325?t=bNJHqgUsnG2GmykC4kTJyw&s=09](#)  
+- 🌐 **Portfolio:** [ds-neuro-stack.vercel.app](#)  
 
 ---
 
