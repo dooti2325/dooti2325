@@ -55,10 +55,6 @@ I'm **Dootiballav** — a data scientist, AI explorer, and fitness aficionado pa
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dooti2325&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 📚 Projects & Highlights
 
 - **Personal Fitness Tracker (ML-powered):** Tracks workouts, health metrics, and personalizes routines (*Python, Pandas, Power BI, Streamlit*)  
@@ -72,7 +68,7 @@ I'm **Dootiballav** — a data scientist, AI explorer, and fitness aficionado pa
 - 📫 **Email:** dootisaha.2325@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/dootisaha](#)  
 - 🐦 **Twitter:** [@dooti2325](#)  
-- 🌐 **Portfolio:** [Your Portfolio Link Here](#)  
+- 🌐 **Portfolio:** [{portfolio}](#)  
 
 ---
 
