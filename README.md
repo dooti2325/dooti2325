@@ -49,34 +49,13 @@ I'm **Dootiballav** — a data scientist, AI explorer, and fitness aficionado pa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dooti2325&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dooti2325&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=dooti2325&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dooti2325&theme=midnight-purple&hide_border=false&show_icons=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dooti2325&theme=midnight-purple&hide_border=false" width="48%"/>
-</p>
-<p>                 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dooti2325&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="75%"/>
-</p>
-
----
-
-<p align="center">
-  <!-- Developer GIF -->
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Developer Animation" />
-<br>
-  <!-- Typing SVG (direct endpoint, avoids long camo URL) -->
-  <img src="https://readme-typing-svg.demolab.com?lines=Data+Enthusiast;AI+Innovation+Pioneer;Fitness+Aficionado;Visionary+Expert;Strategic+Alliance+Builder;Let%E2%80%99s+Collaborate!&center=true&width=400&height=45&duration=3500" alt="Animated Text" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dooti2325&theme=rogue" width="90%" alt="GitHub Contribution Graph"/>
-</p>
 
 ---
 
@@ -94,6 +73,11 @@ I'm **Dootiballav** — a data scientist, AI explorer, and fitness aficionado pa
 - 💼 **LinkedIn:** [linkedin.com/in/dootisaha](#)  
 - 🐦 **Twitter:** [@dooti2325](#)  
 - 🌐 **Portfolio:** [Your Portfolio Link Here](#)  
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dooti2325&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
